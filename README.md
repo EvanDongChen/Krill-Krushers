@@ -1,2 +1,4 @@
 # Krill-Krushers
-You are a refuge turtle who has just escaped from the clutches of the Krill Kingdom. Now they have come to catch you, and you must fight or die in this brand new vampire survivors-inspired game!
+Devost: https://devpost.com/software/krill-krushers
+This is a Unity 2D Game made for Storm Hacks 2024, Made by @emmyfong @EvanDongChen, @sophiachipeco, and @KeiraLiu6.
+This project is hosted here for easy access to gameplay! 
